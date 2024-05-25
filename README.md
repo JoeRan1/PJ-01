@@ -9,7 +9,7 @@ Gather job seeker application data from the HH website, including information su
 Data Cleaning and Preparation:
 
 Cleanse and preprocess the collected data to ensure accuracy and consistency. Handle missing values, outliers, and data formatting issues as necessary.
-Exploratory Data Analysis (EDA):
+
 
 Conduct exploratory data analysis to uncover trends, patterns, and correlations within the job seeker application data. Use visualizations and statistical techniques to gain insights.
 Application Trends Analysis:
@@ -18,22 +18,15 @@ Analyze trends in job applications over time, including seasonal variations, pop
 Applicant Profile Analysis:
 
 Explore characteristics of job applicants, such as skills, experience levels, education backgrounds, and preferences. Identify common traits among successful applicants.
-Performance Metrics Calculation:
 
-Calculate key performance metrics related to job applications, such as application-to-hire ratios, response times, applicant conversion rates, and more.
-Insights Generation:
-
-Generate actionable insights and recommendations based on the analysis findings. Provide insights to employers and recruiters to improve their hiring strategies and processes.
 Project Deliverables
 Data Report:
 
-A comprehensive report detailing the data collection process, data cleaning steps, EDA findings, and analysis results.
+A comprehensive report detailing the data collection process, data cleaning steps,  and analysis results.
 Visualizations:
 
 Visual representations of the data through charts, graphs, and dashboards to communicate insights effectively.
-Insights Presentation:
 
-A presentation summarizing key findings, trends, and recommendations for stakeholders.
 Documentation:
 
 Well-documented codebase and analysis methodology for reproducibility and future reference.
@@ -50,4 +43,9 @@ Clone the repository to your local machine:
 
 git clone https://github.com/JoeRan1/PJ-01
 Install the required Python libraries:
+
+Dataset of the project can be downloaded via the links below:
+
+main source: https://drive.google.com/file/d/1dxZ3frYRSxNxl8TNSF9FQ2dYF0pE6c8Q/view?usp=drive_link
+exchange rates: https://drive.google.com/file/d/15C5S9Vkm1r0ao-SyyDxewF1DlMO65456/view?usp=drive_link
 
