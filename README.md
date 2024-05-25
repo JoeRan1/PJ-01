@@ -47,5 +47,6 @@ Install the required Python libraries:
 Dataset of the project can be downloaded via the links below:
 
 main source: https://drive.google.com/file/d/1dxZ3frYRSxNxl8TNSF9FQ2dYF0pE6c8Q/view?usp=drive_link
+
 exchange rates: https://drive.google.com/file/d/15C5S9Vkm1r0ao-SyyDxewF1DlMO65456/view?usp=drive_link
 
