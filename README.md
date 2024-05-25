@@ -48,6 +48,6 @@ To get started with the project, follow these steps:
 Clone the repository to your local machine:
 
 
-git clone https://github.com/yourusername/job-seeker-analysis.git](https://github.com/JoeRan1/PJ-01
+git clone https://github.com/JoeRan1/PJ-01
 Install the required Python libraries:
 
